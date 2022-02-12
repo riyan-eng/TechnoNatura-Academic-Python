@@ -1,1 +1,1 @@
-siswa = ["zaki", "nabil", "haiadar", "ata", "fahri", "ilmi", "ardan", "banyu", "zufar", "bayu", "dahayu", "arsya", "sahila"]
+siswa = ["zaki", "yafi", "nabil", "haiadar", "ata", "fahri", "ilmi", "ardan", "banyu", "zufar", "bayu", "dahayu", "arsya", "sahila"]
